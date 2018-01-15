@@ -35,3 +35,23 @@ MDN
   *  newTree.children[1].children[1].value // 14
   *  root1.value // still 1
   */
+  //input function
+  //output a number
+ //make an array to store the  added children
+// make a variable for the values
+//make a function for addChild
+ //make a variable for the childs thats going to be added
+  //push the added
+  var Tree = function(){
+  var this.stored = [];
+  var this.value = value;
+};
+
+  var addChild = fucntion(){
+    var childs =this.stored[this.value];
+
+
+  }
+
+
+  }
